@@ -2,5 +2,5 @@
 __pycache__
 *.pyc
 *.sqlite3
-config_file.ini
+config_file_starter.ini
 .venv
